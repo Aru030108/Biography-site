@@ -1,0 +1,56 @@
+body {
+  background-image: url("https://basis-spb.ru/upload/iblock/c4f/u_156_bejevyii_pesok_1.jpg");
+  -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 200%; /* Современные браузеры */
+
+  #text-align: center;
+}
+p{
+  color: black;
+}
+p1{
+  font-family:segoe script;
+}
+p2{
+  font-family:segoe script;
+}
+p3{
+  font-family:segoe script;
+}
+p4{
+  font-family:segoe script;
+}
+p5{
+  font-family:segoe script;
+}
+p6{
+  font-family:segoe script;
+}
+p7{
+  font-family:segoe script;
+}
+button{
+  font-family:segoe script;
+  background-color: ;
+  color:#D4694A ;
+}
+script{
+  color:green;
+  font-family:segoe script;
+  font-size:80%;
+}
+h1{
+  color: black;
+  font-family:segoe script;
+  text-align: center;
+}
+h2{
+  font-family:segoe script;
+}
+ul {
+  color: black;
+  margin-left: 190px;
+  padding: 30px 25px;
+}
