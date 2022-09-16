@@ -1,0 +1,74 @@
+<html>
+  <head>
+<style>
+  aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color:#F18E7E 
+;
+}
+h1 {
+  font-size: 200%;
+}
+p  {
+  text-align:left;
+  font-size: 200%;
+}
+  #myHeader {
+  background-color: #D19F91 ;
+  color: black;
+  padding: 40px;
+  text-align: center;
+    
+    
+</style>
+</head>
+  <body>    
+    
+   
+      
+<h1>My biography</h1>
+      
+      <hr></hr>
+    
+      <p style="font-family:segoe script;">Personal data</p>
+   <a href="vk.com/aru22019135"> <img src="https://avatars.mds.yandex.net/i?id=7f246d800ab69a8a8f1dc436b90f78b4-5870163-images-thumbs&ref=rim&n=33&w=335&h=225" width="190" height="180" align="left"></a>
+      <ul style="font-family:segoe script;">
+  <li ><strong>Name:</strong> <i>Sultangazieva Aruzhan</i></li>
+  <li><strong>Date of birth:</strong><i>January 8<sup>th</sup>, 2003</i></li>
+  <li><strong>Place of birth:</strong><i>Almaty, Kazakhstan</i></li>
+  <li><strong>Telephone:</strong><i>87477167863</i></li>
+</ul>
+    
+    <hr></hr>
+    <p1><strong >Education:</strong> graduated from Gymnasium No. 147,
+in the 3rd year of study at the International University of Information Technology. I am studying in the specialty of CSSE with the direction of virtual computing.</p1>
+<p2><br><strong>Marital status:</strong>single<br></p2>
+<hr></hr>
+<h2 id="myHeader">More about me</h2>
+    
+
+<p3 id="demo">My hobbies:</p3>
+<button type="button" onclick="myFunction()">Click there!</button>
+<script style="font-family:segoe script;">
+function myFunction() { 
+  document.getElementById("demo").innerHTML = "I went from the first to the fifth grade to the dombra club. I am also fond of drawing, I have recently started to master it digitally. Books are also included in this list, especially classics, novels of the 18th and 20th centuries, the genre of detective and mystery, thriller are also sympathetic. There is an interest in languages and animation in 2d and 3d.";
+}
+</script>
+      
+  <hr></hr>
+  <p4><br>&#9830;The list of literature that I have read mostly contains novels. You can notice from them "Lost Illusions" by Honoré de Balzac, "The Star of the Catz"</br></p4>
+
+<aside>
+<p5>&#9829;Tout vient à point à celui qui sait attendre.<br>Honoré de Balzac&#9829;</p5>
+</aside>
+
+<p6><br>&#9830;"Professor Dowell's Head", "Amphibian Man" by Alexander Belyaev, "Mont Oriol" by Guy de Maupassant</p6>
+<p7><br>&#9830;Detective stories by Arthur Conon Doyle, "Gone with the Wind" by Margaret Mitchell</p7>
+  
+    </body>
+   
+  </html>
